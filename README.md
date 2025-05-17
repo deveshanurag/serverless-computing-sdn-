@@ -157,7 +157,7 @@ This project demonstrates an end-to-end DDoS detection pipeline using SDN and ML
 
 ## 📸 Architecture Diagram
 
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](https://github.com/deveshanurag/serverless-computing-sdn-/blob/main/architecutre.png)
 
 ---
 
