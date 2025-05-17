@@ -18,4 +18,4 @@
 "isBase64Encoded": false
 }
 
-https://hj7zrzexcuitn7sqofyy327wtu0giaym.lambda-url.us-east-1.on.aws/predict
+
